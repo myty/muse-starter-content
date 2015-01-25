@@ -1,0 +1,10 @@
+{
+  "id": "muse-starter-content",
+  "siteTitle": "Generic Site Title",
+  "siteSubTitle": "This is what your site is all about",
+  "defaultImg": "abstract-lights-motion.jpg",
+  "socialLinks":{
+    "twitter": "mytydev",
+    "github": "myty"
+  }
+}
